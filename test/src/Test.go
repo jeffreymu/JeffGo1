@@ -5,5 +5,5 @@ import (
 )
 func main() {
 	fmt.Println("Jeffrey's First GO test!");
-	fmt.Println("Commit to GitHub.")
+	fmt.Println("Commit to GitHub.");
 }
