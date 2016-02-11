@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;JeffGo1&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../GoWorkSpace/src/temp" />
+      <root url="file://$PROJECT_DIR$/../GoWorkSpace/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../GoWorkSpace/src/temp.go" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../GoWorkSpace/src/github.com/smartystreets/assertions/.git" />
+      <root url="file://$PROJECT_DIR$/../GoWorkSpace/src/github.com/go-sql-driver/mysql/.git" />
+      <root url="file://$PROJECT_DIR$/test" />
+      <root url="file://$PROJECT_DIR$/../GoWorkSpace/src/github.com/beego/bee/testdata" />
+      <root url="file://$PROJECT_DIR$/../GoWorkSpace/src/github.com/smartystreets/assertions/internal/oglemock/generate/testdata" />
+      <root url="file://$PROJECT_DIR$/../GoWorkSpace/src/github.com/lib/pq/.git" />
+      <root url="file://$PROJECT_DIR$/../GoWorkSpace/src/github.com/howeyc/fsnotify/.git" />
+      <root url="file://$PROJECT_DIR$/../GoWorkSpace/src/github.com/astaxie/beego/.git" />
+      <root url="file://$PROJECT_DIR$/../GoWorkSpace/src/github.com/smartystreets/assertions/internal/oglemock/createmock/testdata" />
+      <root url="file://$PROJECT_DIR$/../GoWorkSpace/src/github.com/smartystreets/goconvey/.git" />
+      <root url="file://$PROJECT_DIR$/../GoWorkSpace/src/github.com/jtolds/gls/.git" />
+      <root url="file://$PROJECT_DIR$/../GoWorkSpace/src/github.com/astaxie/beego/utils/testdata" />
+      <root url="file://$PROJECT_DIR$/../GoWorkSpace/src/github.com/beego/bee/.git" />
+    </excluded>
+  </library>
+</component>
