@@ -1,2 +1,3 @@
-# JeffGo1
-This is just for testing!
+# golang demo
+
+This is the demonstration for Golang!
